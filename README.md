@@ -3,9 +3,6 @@
 ##  Repository: 
 [Console-Tricks](https://github.com/TBragg800/Console-Tricks)
 
-##  Deployed:
-[Console-Tricks](https://tbragg800.github.io/Console-Tricks/)
-
 ![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 ![GitHub repo size](https://img.shields.io/github/repo-size/TBragg800/Console-Tricks)
 
@@ -19,13 +16,10 @@
   [Questions](#Questions)
   
 ## Description
-  This is an application created by following the Javascript 30 instruction series by Wes Bos. The purpose of the exercise is to gain additional practice with canvas elements and to create the logic to draw through controling mouse events. To find out more about the instruction series visit the site at [Wes Bos JavaScript 30](https://javascript30.com/)
+  This is an application created by following the Javascript 30 instruction series by Wes Bos. The purpose of the exercise is to increase my knowledge of additional dev tools. To find out more about the instruction series visit the site at [Wes Bos JavaScript 30](https://javascript30.com/)
 
 ## Installation
   Simply clone the repo locally.
-
-## Usage
-  Either open the index.html file in the browser of your choice or visit the github pages hosted application at [Console-Tricks](https://tbragg800.github.io/Console-Tricks/)
 
 ## License
   MIT License
